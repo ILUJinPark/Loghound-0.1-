@@ -1,5 +1,5 @@
 # Loghound-0.1-
-GPT LogHound is a Python tool for identifying suspicious behaviors in server logs, like repeated failed logins or vulnerability scans, aiding cybersecurity efforts.
+LogHound is a Python tool for identifying suspicious behaviors in server logs, like repeated failed logins or vulnerability scans, aiding cybersecurity efforts.
 
 
   # LogHound
